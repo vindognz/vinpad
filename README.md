@@ -1,5 +1,5 @@
 # VinPad - A submission for HackClub's Highway
-![image](https://github.com/vindognz/vinpad/blob/33520f64c1eac58b32a8b16e1a8b2b23eca68f45/final.png)
+![image](https://github.com/vindognz/vinpad/blob/56901d8dbd5b84cc780db51fae7a4b5a1379ade8/final.png)
 
 ### Specifications
 
@@ -15,4 +15,4 @@ BOM:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/vindognz/vinpad/blob/33520f64c1eac58b32a8b16e1a8b2b23eca68f45/schem.png)    |  ![image](https://github.com/vindognz/vinpad/blob/33520f64c1eac58b32a8b16e1a8b2b23eca68f45/pcb.png)  | ![image](https://github.com/vindognz/vinpad/blob/33520f64c1eac58b32a8b16e1a8b2b23eca68f45/final.png)
+![image](https://github.com/vindognz/vinpad/blob/33520f64c1eac58b32a8b16e1a8b2b23eca68f45/schem.png)    |  ![image](https://github.com/vindognz/vinpad/blob/33520f64c1eac58b32a8b16e1a8b2b23eca68f45/pcb.png)  | ![image](https://github.com/vindognz/vinpad/blob/56901d8dbd5b84cc780db51fae7a4b5a1379ade8/case.png)
